@@ -190,7 +190,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 			break;
 			default:
 			{
-				cout << "Pilihan salah !." << endl;
+				cout << "Pilihan salah !." << endl; 
 			}
 			break;
 			}
