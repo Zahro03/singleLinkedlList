@@ -138,7 +138,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 			{
 			case '1':
 			{
-				mhs.addNode();
+				mhs.addNode(); 
 			}
 			break;
 
