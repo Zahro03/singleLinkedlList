@@ -146,7 +146,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 			{
 				if (mhs.listEmpty())
 				{
-					cout << endl << "List kosong" << endl;
+					cout << endl << "List kosong" << endl; 
 					break;
 				}
 				cout << endl << "\nMasukkan no mahasiswa yang akan dihapus :";
