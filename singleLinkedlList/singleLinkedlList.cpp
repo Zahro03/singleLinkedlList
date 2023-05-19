@@ -76,7 +76,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 		else
 			return false;
 	}
-	bool List::delNode(int nim)/*Menghapus node dari dalam list*/ 
+	bool List::delNode(int nim)/*Menghapus node dari dalam list*/  
 	{
 		Node* current, * previous;
 		if (Search(nim, &previous, &current) == false)
