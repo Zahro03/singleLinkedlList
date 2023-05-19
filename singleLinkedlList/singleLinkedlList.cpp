@@ -165,7 +165,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 
 			case '4':
 			{
-				if (mhs.listEmpty() == true)
+				if (mhs.listEmpty() == true) 
 				{
 					cout << "\nList kosong\n";
 					break;
