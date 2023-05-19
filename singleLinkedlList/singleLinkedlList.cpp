@@ -10,7 +10,7 @@ public:
 	Node* next;
 };
 
-class List
+class List 
 {
 	Node* START;
 public:
