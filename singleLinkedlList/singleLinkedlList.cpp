@@ -102,7 +102,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 		return (*current != NULL);
 	}
 
-	void List::traverse()/* Mengunjungi dan membaca data dalam list*/
+	void List::traverse()/* Mengunjungi dan membaca data dalam list*/ 
 	{
 
 		if (listEmpty())
