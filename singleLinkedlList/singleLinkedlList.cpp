@@ -89,7 +89,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 		return true;
 	}
 
-	/*Check apakah node yang dimaksud ada didalam list atau tidak*/
+	/*Check apakah node yang dimaksud ada didalam list atau tidak*/ 
 	bool List::Search(int nim, Node** previous, Node** current)
 	{
 		*previous = START;
