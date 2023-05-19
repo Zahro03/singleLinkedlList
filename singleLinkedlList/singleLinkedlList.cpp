@@ -161,7 +161,7 @@ void List::addNode()/*Menambah sebuah Node kedalam list */
 			{
 				mhs.traverse();
 			}
-			break;
+			break; 
 
 			case '4':
 			{
